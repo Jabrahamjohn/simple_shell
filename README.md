@@ -21,7 +21,7 @@ This program was written entirely in C Language.
 </p>
 
 ## COPYRIGHT
-Copyright (C) 2023 by [**Abraham John**](https://github.com/Jabrahamjohn) and [**peter meme**](https://github.com/petermeme) </br>
+Copyright (C) 2023 by [**Abraham John**](https://github.com/Jabrahamjohn)</br>
 All rights reserved
 
  ## Description :
@@ -87,7 +87,7 @@ ls -la
 
 ## Contributors :
 * [**Abraham John**](https://github.com/Jabrahamjohn)
-* [**Peter meme**](https://github.com/petermeme)
+
 
 ## Acknowledgments :
 - The creators of the C language.
